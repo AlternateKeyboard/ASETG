@@ -44,4 +44,5 @@ Dvorak|0.944|1.519|58%|L: 44 R: 56
 Colemak|0.900|1.448|56%|L: 46 R: 54
 ASETG|0.895|1.440|55%|L: 51 R: 48
 Norman|0.876|1.409|54%|L: 51 R: 48
+
 *Source: 16.4k word / 79.5k character / 32 page compilation.
