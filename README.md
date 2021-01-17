@@ -32,3 +32,16 @@ A: Yes, looks like the same opportunities for the home row were taken advantage 
 ## Q: Why not skip this and adopt Norman?
 
 A: Norman’s goal is to take common letters out of the center column because some find it awkward. If you don’t find it awkward (I think most don’t) there’s no need for that additional change. Norman has 4 letters change fingers, HRPK. ASETG has 3 letters change fingers, RPK. Of these H and R are very frequent, P is common. and K is infrequent. So ASETG moves only 1 very frequent letter and keeps H in its original location, instead of Norman moving 2 very frequent letters. This keeps changes to a minimum, makes it easier to transition to, and keeps more muscle memory - which are the goals of ASETG.
+
+## Stats
+
+Keyboard|Distance (mile)| Distance (km)|Distance (% of QWERTY)|Hand Usage
+:--|:--|:--|:--|:--
+|(miles)|(km)|(% of QWERTY)|
+QWERTY|1.621|2.608|100%|L: 56 R: 44
+ASERT|1.040|1.673|64%|L: 56 R: 44
+Dvorak|0.944|1.519|58%|L: 44 R: 56
+Colemak|0.900|1.448|56%|L: 46 R: 54
+ASETG|0.895|1.440|55%|L: 51 R: 48
+Norman|0.876|1.409|54%|L: 51 R: 48
+*Source: 16.4k word / 79.5k character / 32 page compilation.
