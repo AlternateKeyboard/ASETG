@@ -1,10 +1,6 @@
 # ASETG Keyboard Layout
 
-Here's the keyboard layout:
-
-    QWDF KJ UPL;
-    ASET GH NIOR
-    ZXCV BY M,./
+![ASETG](https://github.com/RandomAlly/ASETG/blob/main/ASETG.png)
 
 
 ## What is this?
@@ -19,3 +15,20 @@ Instead of just exchanging R and P, adding the infrequent K is an easy and worth
 
 To use the concepts above, ASETG is 20% of the pain, for a whopping 80% of the gain. 
 
+That’s it, that’s the best change. If you want more optimization for a tad more pain (but don’t want to jump to Colemak/Workman/etc), this is a seriously good option. Go for it. This is probably what I would have gone with.
+
+## Q: A change after all that talk about fingers?
+
+A: This is about getting the most bang for the buck, while keeping as much brain/muscle memory as possible. The less frequent P is a prime opportunity to put a more frequent letter under a finger. You can get both the R and the T under a finger by moving the R there and rejigging the T area. Initially I just swapped R and P but adding the K is a small worthwhile addition for the reasons above.
+
+## Q: Isn’t it a little odd to unload the left index finger but keep H on the right index finger?
+
+A: There’s only one opportunity with the P. You obviously want to put the T under a finger, so that means moving the R or the T. To keep as much muscle memory as possible we want the T on the left index finger, so that means we move the R. Also the left index finger is way more overloaded, after this change they are actually in line. If you don’t like the center column H and want to move it, then Norman layout is the best solution.
+
+## Q: The 8 letters under the fingers are the same as the ASSET keyboard.
+
+A: Yes, looks like the same opportunities for the home row were taken advantage of. But I think this has better placement of all the other keys on the top row, bottom row, and center columns. The D, J, K, Y are in better spots. The P is close to being a wash. The G and U can stay in their original locations to make it easier. This has fewer changes overall, the letters are in better spots, maintains more muscle memory, and is easier to learn. IMO a big win over ASSET on all fronts.
+
+## Q: Why not skip this and adopt Norman?
+
+A: Norman’s goal is to take common letters out of the center column because some find it awkward. If you don’t find it awkward (I think most don’t) there’s no need for that additional change. Norman has 4 letters change fingers, HRPK. ASETG has 3 letters change fingers, RPK. Of these H and R are very frequent, P is common. and K is infrequent. So ASETG moves only 1 very frequent letter and keeps H in its original location, instead of Norman moving 2 very frequent letters. This keeps changes to a minimum, makes it easier to transition to, and keeps more muscle memory - which are the goals of ASETG.
