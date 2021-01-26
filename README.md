@@ -37,7 +37,7 @@ A: Norman’s goal is to take common letters out of the center column because so
 
 ## Stats
 
-Keyboard|Distance (mile)| Distance (km)|Distance (% of QWERTY)|Hand Usage
+Keyboard|Distance|Distance|Distance|Hand Usage
 :--|:--|:--|:--|:--
 ||(miles)|(km)|(% of QWERTY)|
 QWERTY|1.621|2.608|100%|L: 56 R: 44
