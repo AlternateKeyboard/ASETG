@@ -35,6 +35,8 @@ A: Yes, looks like the same opportunities for the home row were taken advantage 
 
 A: Norman’s goal is to take common letters out of the center column because some find it awkward. If you don’t find it awkward there’s no need for that additional change. Norman has 4 letters change fingers, HRPK. ASETG has 3 letters change fingers, RPK. Of these H and R are very frequent, P is common. and K is infrequent. So ASETG moves only 1 very frequent letter and keeps H in its original location, instead of Norman moving 2 very frequent letters. This keeps changes to a minimum, makes it easier to transition to, and keeps more muscle memory - which are the goals of ASETG.
 
+*After spending some more time analyzing Norman, it has the added advantage of a better Ring to Pinky roll. The OH is not very frequent, but OR is frequent and can be awkward. 
+
 ## Stats
 
 KKeyboard|Distance|Distance|Distance|Hand Usage|Finger Usage|Finger Usage
