@@ -5,6 +5,8 @@
 ![ASETGHeatmap](https://github.com/RandomAlly/ASETG/blob/main/ASETG%20Heatmap.png)
 
 
+**After spending some more time analyzing Norman, I think it's worth adopting that over ASETG. There are several reasons. It's already established, it's just one more letter change, ASETG's OR roll could be awkward and Normans OH is not frequent at all, many still find Qwerty H position awkward. The Norman H is put onto a very strong finger and location and helps reduce the index finger travel distance. Finally ASETG is halfway between ASERT and Norman, I think it's better to take the absoulute ease of ASERT or take the added advantages of Norman at only one more letter.**
+
 ## What is this?
 
 ASETG is a minimal change alternate keyboard layout. Most letters stay on the same fingers with an up-down switch, only 3 letters change fingers. 
