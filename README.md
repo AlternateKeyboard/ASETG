@@ -4,8 +4,13 @@
 
 ![ASETGHeatmap](https://github.com/RandomAlly/ASETG/blob/main/ASETG%20Heatmap.png)
 
+-------------------------------
+
+Edit:
 
 **After spending some more time analyzing Norman, I think it's worth adopting that over ASETG. There are several reasons. It's already established. It's just one more letter change. ASETG's OR roll is awkward and Norman's OH is not frequent at all. Many still find Qwerty H position awkward. Norman puts a better letter on the Qwerty I position. With ASETG the R is moved and the H is left out, but Norman makes use to move them to better spots. Norman's changes also reduces the index finger's travel distance, which is quite a bit higher than the other fingers. Finally ASETG is essentially halfway between ASERT and Norman, I think it's better to take the absoulute ease of ASERT or take the added advantages of Norman. See reddit.com/r/Norman/wiki for my writeup.**
+
+-------------------------------
 
 ## What is this?
 
